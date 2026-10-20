@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Vedant More 👋
 
-<!--
-**VedantMore1011/VedantMore1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓  Computer Engineering student at TCET
 
-Here are some ideas to get you started:
+🧠 Interested in Software Development and Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Building academic projects and strengthening my programming fundamentals
+
+## 🛠️ Skills
+- Java
+- Data Structures
+- MySQL / DBMS
+
+## 🚀 Projects
+- **SkillTrack** — Student Skills Management System
+
+
+## 🎯 Goals
+- Improve my coding and problem-solving skills
+- Build practical software projects
+- Explore internship opportunities
+
+## 🤝 Connect with Me
+- LinkedIn: [My LinkedIn Profile](linkedin.com/in/vedant-more-42782b383)
