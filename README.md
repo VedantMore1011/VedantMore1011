@@ -7,12 +7,14 @@
 🌱 Building academic projects and strengthening my programming fundamentals
 
 ## 🛠️ Skills
+- C
+- C++
 - Java
 - Data Structures
 - MySQL / DBMS
 
 ## 🚀 Projects
-- **SkillTrack** — Student Skills Management System
+- **HomeFixr** — House Services
 
 
 ## 🎯 Goals
